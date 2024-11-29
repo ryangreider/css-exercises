@@ -1,0 +1,17 @@
+.odd{
+    background-color: lightpink;
+
+}
+#line2{
+    color: blue;
+    font-size: 36px;
+}
+.line3{
+    font-size: 24px;
+    font-family: Verdana;
+}
+#line4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
